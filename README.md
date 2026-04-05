@@ -25,7 +25,7 @@ Estoy desarrollando una aplicación móvil diseñada para mejorar la movilidad.
 
 **Control de Versiones y Otros**
 * ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) (Manejo Intermedio)
+* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
