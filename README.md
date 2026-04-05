@@ -1,6 +1,6 @@
-# ¡Hola! 👋
+# Hey There!
 
-Actualmente me encuentro cursando mis estudios universitarios de ingeniería informatica, enfocado en crear soluciones tecnológicas que impacten en mi entorno local.
+Actualmente me encuentro cursando ingeniería informatica, enfocado en crear soluciones tecnológicas que impacten en mi entorno local.
 
 ### 🚀 Mi Proyecto Principal: [buseschia.com](https://buseschia.com)
 Estoy desarrollando una aplicación móvil diseñada para mejorar la movilidad.
