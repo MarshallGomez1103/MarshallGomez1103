@@ -2,7 +2,7 @@
 
 Actualmente me encuentro cursando ingeniería informatica, enfocado en crear soluciones tecnológicas que impacten en mi entorno local.
 
-### 🚀 Mi Proyecto Principal: [buseschia.com](https://buseschia.com)
+### 🚀 Mi Proyecto Principal: Transporte de Chia
 Estoy desarrollando una aplicación móvil diseñada para mejorar la movilidad.
 * **Tech Stack:** Kotlin + Firebase.
 * **Estado:** En desarrollo activo.
@@ -36,4 +36,4 @@ Estoy desarrollando una aplicación móvil diseñada para mejorar la movilidad.
 ---
 
 ### 📫 Contacto
-* **Proyecto:** [Visita buseschia.com](https://buseschia.com)
+* **Proyecto:** Transporte de Chia
